@@ -24,6 +24,7 @@ text-decoration: none;
 }
 span {
     color: orange;
+<<<<<<< Updated upstream
     margin-right:  76px;}
 .sec-one {
   margin-right: auto;
@@ -99,3 +100,7 @@ background: #ffffff;
 
 
 }
+=======
+    margin-right:  76px;
+}
+>>>>>>> Stashed changes
